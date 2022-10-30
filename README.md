@@ -1,5 +1,5 @@
 ### Hi I'm junior studying CS @ Brown
-Currently looking for summer '23 internships
+Please hire me
 
 <!--
 **abao929/abao929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

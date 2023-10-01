@@ -1,4 +1,4 @@
-### Hi I'm senior studying CS @ Brown
+### Hi I'm a senior studying CS @ Brown
 Please hire me
 
 <!--

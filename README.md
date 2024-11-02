@@ -1,6 +1,4 @@
-### Hi I'm a senior studying CS @ Brown
-Please hire me
-
+# yay coding
 <!--
 **abao929/abao929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
